@@ -51,8 +51,6 @@ La herramienta genera resultados gráficos de:
 
 ## Publicación
 
-Este proyecto está pensado para publicarse como sitio estático:
-
 - GitHub
 
 ## Estado del proyecto
@@ -65,8 +63,5 @@ Desarrollado por Celso Gómez.
 
 ## Licencia
 
-Puedes dejar esto provisionalmente así:
-
 **Uso libre y gratuito.**
 
-Si después quieres, te ayudo a ponerle una licencia formal tipo MIT.
